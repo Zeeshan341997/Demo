@@ -10055,6 +10055,11 @@ html, body {
 	top: 50%;
 	transform: translateY(-50%)
 }
+.carousel-indicators {
+	position: absolute;
+	top: 90%;
+	transform: translateY(-90%)
+}
 .post-caption {
 	position: top;
 	top: 90%;
