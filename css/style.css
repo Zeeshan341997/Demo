@@ -3,7 +3,7 @@
   height: 250px;
   box-shadow: 5px 10px 8px #888888;
   margin: 10% auto;
-  background-color: gold;
+  background-color: white;
   animation-name: circle;
   animation-duration: 3.5s;
   animation-iteration-count: infinite;
@@ -47,7 +47,6 @@
   to {
     transform: rotate(360deg);
     border-radius: 100%;
-
   }
 }
 
